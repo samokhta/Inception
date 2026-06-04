@@ -1,7 +1,10 @@
-# Inception
-Inception 42 project
+*This project has been created as part of the 42 curriculum by samokhta*
 
-# Resources
-- https://github.com/vbachele/Inception
-- https://github.com/Forstman1/inception-42
-- https://medium.com/@imyzf/inception-3979046d90a0
+---
+
+## Description
+
+## Instructions
+
+## Resources
+
