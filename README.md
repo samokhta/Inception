@@ -104,18 +104,11 @@ Docker allows lightweight, reproducible environments compared to traditional vir
 
 ## Resources
 
-### Documentation & Tutorials
-
-- Docker documentation  
-- NGINX documentation  
-- WordPress documentation  
-- MariaDB documentation  
-
-### Learning Resources
-
-- Docker Compose guides and best practices  
-- Linux system administration basics  
-- Networking fundamentals (ports, DNS, reverse proxy)  
+- https://github.com/Forstman1/inception-42
+- https://github.com/vbachele/Inception
+- https://medium.com/@ssterdev/inception-guide-42-project-part-i-7e3af15eb671
+- https://tuto.grademe.fr/inception/
+- https://medium.com/@imyzf/inception-3979046d90a0
 
 ---
 
